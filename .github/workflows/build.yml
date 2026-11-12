@@ -15,3 +15,4 @@ jobs:
         with:
           name: winshell-windows
           path: build/winshell.exe build/winshell-setup.exe build/winshell-start.exe
+        
